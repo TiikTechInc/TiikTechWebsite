@@ -475,6 +475,13 @@ header .search-box .close_icon {
     color: #1d3b5f;
 }
 
+.heading-color {
+    position: relative;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #1d3b5f;
+}
+
 .sub-heading {
     position: relative;
     font-size: 16px;
@@ -1622,7 +1629,7 @@ header .search-box .close_icon {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(33, 33, 33, 0.9);
+    background-color: #1d3b5f;
 }
 
 .breadcrumb {
